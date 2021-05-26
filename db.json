@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "Wevies 12416",
+      "price": 7600,
+      "article": "V1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Omamp 8983",
+      "price": 11000,
+      "article": "V2",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "Tricom 4834",
+      "price": 8500,
+      "article": "V3",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Evail 6140",
+      "price": 7100,
+      "article": "V4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "Pomo 11650",
+      "price": 9200,
+      "article": "V5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "6.jpg",
+        "name": "Untenx 7983",
+      "price": 8700,
+      "article": "V6",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Evail 14050",
+      "price": 8000,
+      "article": "V7",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "8.jpg",
+      "name": "Omamp 9580",
+      "price": 12000,
+      "article": "V8",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "9.jpg",
+      "name": "Pomo 6411",
+      "price": 6800,
+      "article": "V9",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "10.jpg",
+      "name": "Wevies 5842",
+      "price": 10500,
+      "article": "V10",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "11.jpg",
+      "name": "Untenx 13792",
+      "price": 8700,
+      "article": "V11",
+      "available": false,
+      "category": "Мужские"
+    },
+    {
+      "image": "12.jpg",
+      "name": "Tricom 12583",
+      "price": 9000,
+      "article": "V12",
+      "available": false,
+      "category": "Женские"
+    }
+  ]
+}
