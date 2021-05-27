@@ -45,8 +45,7 @@ export default {
   padding: $padding*2;
   margin-bottom: $margin*2;
   border-color: black;
-  border: solid;
-  border-radius: 5px;
+  border: solid 5px;
   font-family: Ubuntu;
   font-size: 14px;
   &__image {

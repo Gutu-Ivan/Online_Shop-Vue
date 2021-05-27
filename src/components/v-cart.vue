@@ -1,6 +1,10 @@
 <template>
   <div class="v-cart">
+    <router-link :to="{name: 'catalog'}">
+      <div class="v-catalog__link_to_cart">Back</div>
+    </router-link>
     <h1>Cart</h1>
+    <h4 v-if="!cart_data.length">There are no products in cart.</h4>
     <v-cart-item
       v-for="(item, index) in cart_data"
       :key="item.article"
@@ -38,6 +42,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss">
+
 
 </style>
