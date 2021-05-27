@@ -49,9 +49,15 @@ export default {
   font-family: Ubuntu;
   font-size: 14px;
   &__image {
-    height: 75%;
-    width: 45%;
-
+    height: 70%;
+    width: 36%;
+  }
+  .btn {
+    padding: $padding $padding*2;
+    color: #ffffff;
+    background-color: #2c3e50;
+    border: 3px solid #9373b6;
+    border-radius: 25px;
   }
 }
 
